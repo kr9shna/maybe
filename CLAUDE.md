@@ -9,7 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `bin/rails server` - Start Rails server only
 - `bin/rails console` - Open Rails console
 
-### Testing
+### Testing just for fun
 - `bin/rails test` - Run all tests
 - `bin/rails test:db` - Run tests with database reset
 - `bin/rails test:system` - Run system tests only (use sparingly - they take longer)
